@@ -19,7 +19,7 @@
 * Analysed the clusters and commented on the findings.
 
 ## Data visualization
-([Dashboard link]https://public.tableau.com/authoring/retail_16594199913450/RFMDB#1)
+* Dashboard link : https://public.tableau.com/authoring/retail_16594199913450/RFMDB#1)
 * Country-wise analysis to demonstrate average spend. Used a bar chart to show the monthly figures.
 * Made a Bar graph of top 15 products which were mostly ordered by the users to show the number of products sold
 * Made a Bar graph to show the count of orders vs. hours throughout the day
